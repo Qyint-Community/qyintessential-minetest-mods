@@ -9,4 +9,4 @@ The Mod is also available on ContentDB.
 *Check Parent Directories README and Wiki for more Information!*
 
 # Licensing
-This Mod is published under the QYINT-LICENSE.
+This Mod is published under the GPLv3.
