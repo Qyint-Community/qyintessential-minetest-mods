@@ -60,4 +60,4 @@ Other:
 - Add Mod: ZeldaItems
 
 # Licensing
-This Mod is published under the QYINT-LICENSE.
+This Mod is published under the GPLv3.
