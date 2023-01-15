@@ -23,6 +23,7 @@ It is recommended to use this Modpack together with the following Mods:
 # List of Mods
 - NonUseless v.1.0.0
 - DragonEggLock v.1.0.0
+- UndoMistakes v.1.0.0
 - (MarioPipes) v.0.0.1
 - (Warcraft) v.0.2.1
 
@@ -31,6 +32,8 @@ It is recommended to use this Modpack together with the following Mods:
 - Add more crafting Recipes
 ##### DragonEggLock:
 - Fix Sounds
+##### UndoMistakes:
+- Add Un-Stripping Wood
 ##### MarioPipes:
 - Add a Crafting Recipe
 - Add a proper Model
@@ -55,7 +58,6 @@ It is recommended to use this Modpack together with the following Mods:
 - Add Mod: Slingshot
 - Add Mod: ServerBasics
 - Add Mod: SmokeBombs
-- Add Mod: UndoMistakes
 - Add Mod: WebMap
 - Add Mod: ZeldaItems
 
