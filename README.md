@@ -27,22 +27,22 @@ It is recommended to use this Modpack together with the following Mods:
 - (Warcraft) v.0.2.1
 
 # To-Do:
-NonUseless:
+##### NonUseless:
 - Add more crafting Recipes
-DragonEggLock:
+##### DragonEggLock:
 - Fix Sounds
-MarioPipes:
+##### MarioPipes:
 - Add a Crafting Recipe
 - Add a proper Model
 - Add Teleportation
 - Add more Colors and a Travel Network
-Warcraft:
+##### Warcraft:
 - Add all the other Weapons
 - Create Weapon Effects and some Animations
 - Add all the Items, Accessories, Mobs and Structures
 - Improve Texture Quality
 - Some Weapons need a Custom Model, such as the Rifle
-Other:
+##### Other:
 - Add Mod: Brewery
 - Add Mod: CombatLog
 - Add Mod: CopperZ
