@@ -1,6 +1,8 @@
 # Qyint-Community / QyintESSENTIAL Minetest Mods
 - - -
 
+# [Wiki](https://github.com/Qyint-Community/qyintessential-minetest-mods/wiki)
+
 # Installing and Updating
 ### Installing:
 `git clone https://github.com/Qyint-Community/qyintessential-minetest-mods` *Download latest Version, now move it into the mods folder*
